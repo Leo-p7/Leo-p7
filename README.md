@@ -1,16 +1,30 @@
-## Hi there 👋
+# Leonardo Massimino Fogazzi
 
-<!--
-**Leo-p7/Leo-p7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor em Formação | ADS @ Senacrs** 📍 Porto Alegre, RS
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Stack & Evolução
+Atualmente no 3º semestre de **Análise e Desenvolvimento de Sistemas**, unindo o conhecimento de infraestrutura (Hardware) com o desenvolvimento de software focado em performance e lógica.
+
+#### 🛠️ Tecnologias e Habilidades
+* **Back-end:** Python (Lógica e Automação), PHP (Em aprendizado).
+* **Front-end:** HTML5, CSS3 (Interfaces Responsivas e Landing Pages).
+* **Dados:** Banco de Dados SQL (Modelagem e Queries), Excel Avançado.
+* **Infraestrutura:** Especialista em Hardware, Montagem e Otimização de Sistemas.
+
+#### 📚 Learning Path (Foco Atual)
+* **Back-end:** Integração PHP + Bancos de Dados Relacionais.
+* **Data:** Modelagem de dados e estruturação de queries SQL.
+
+---
+
+### 📂 Projetos em Destaque
+* **Hotsite F1 2025:** Interface responsiva temática desenvolvida com HTML e CSS, focada em performance de carregamento e design imersivo para fãs de automobilismo.
+* **Python ADS:** Repositório de algoritmos e resolução de problemas lógicos.
+* **TrinityVibe:** Desenvolvimento de Landing Pages de alta performance focadas em conversão.
+
+---
+
+### 🔗 Conecte-se comigo
+[LinkedIn]((https://www.linkedin.com/in/leonardo-massimino-511016248/)) | [E-mail](leonardo.massimino@hotmail.com)
